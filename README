@@ -1,0 +1,9 @@
+README
+------
+
+A simple set of scripts to manage local jekyll preview environment and publishing of static content to production site.
+
+Functionality:
+jekyll-publish - can update a local git repo and optionally push generated content
+
+(c) 2015 brian martin (brayniac@gmail.com) @brayniac
